@@ -1,4 +1,0 @@
-this is a first git file
-and I want to test git
-change1: add a third line
-change2: add a fourth line
